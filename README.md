@@ -11,7 +11,7 @@ Project Code Name: Skynet
 
 Description: Skynet is a highly secure, real-time control and redirection system for Intercontinental Ballistic Missiles (ICBMs). It integrates advanced guidance systems, encryption, and secure communication protocols to control missile trajectories, with a built-in emergency function to redirect missiles to non-populated areas such as Point Nemo or the Sun in extreme scenarios, ensuring the protection of humanity.
 
-
+Skynet.webp
 
 Table of Contents
 
